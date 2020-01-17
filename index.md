@@ -1,8 +1,9 @@
-Hello and welcome to this blog. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images: 
 
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-This is the initial fast_template.
+This is the initial fast_template (https://www.fast.ai/2020/01/16/fast_template/).
+
